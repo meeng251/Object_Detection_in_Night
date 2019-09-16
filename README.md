@@ -4,4 +4,5 @@
 - Nguyễn Khánh Vinh (17521263)
 
 # Thông tin đề tài 
-## Tên đề tài: Nhận diện vật thể trong ban đêm
+- Tên đề tài: Nhận diện vật thể trong ban đêm
+- Báo cáo tổng thể: https://www.overleaf.com/5243227629fhddqpcwwdtj
