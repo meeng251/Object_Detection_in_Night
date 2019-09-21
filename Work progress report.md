@@ -2,6 +2,7 @@
 ## 16/09/2019: 
 ### 1. Khởi tạo project với Github, báo cáo Github
 - Tạo báo cáo với 2 phần: Mô tả bài toán và miêu tả tập dữ liệu
+  - Link Overleaf: https://www.overleaf.com/5243227629fhddqpcwwdtj
 - Khó khăn: Không
 - Đề xuất: Không
 
