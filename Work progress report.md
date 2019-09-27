@@ -6,4 +6,7 @@
 - Khó khăn: Không
 - Đề xuất: Không
 
-## 21/09/2019 
+## 27/09/2019 
+### 1. Tìm hiểu Deep Learning cơ bản (Vietnamese) 
+- Link full series: https://nttuan8.com/category/deep-learning/
+
