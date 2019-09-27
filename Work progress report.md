@@ -7,6 +7,6 @@
 - Đề xuất: Không
 
 ## 27/09/2019 
-### 1. Tìm hiểu Deep Learning cơ bản (Vietnamese) 
+### 1. Ôn lại Deep Learning cơ bản (Vietnamese) 
 - Link full series: https://nttuan8.com/category/deep-learning/
 
