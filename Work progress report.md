@@ -12,3 +12,4 @@
 
 ## 28/09/2019
 ### 1. Tham khảo biến thể Mask R-CNN (Mask Region-Based Convolutional Neural Network)
+- Sử dụng Pre-trained Resnet (Resnet101) : https://viblo.asia/p/gioi-thieu-ve-cac-pre-trained-models-trong-linh-vuc-computer-vision-3Q75wB1GlWb
