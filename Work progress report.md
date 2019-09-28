@@ -10,3 +10,5 @@
 ### 1. Ôn lại Deep Learning cơ bản (Vietnamese) 
 - Link full series: https://nttuan8.com/category/deep-learning/
 
+## 28/09/2019
+### 1. Tham khảo biến thể Mask R-CNN (Mask Region-Based Convolutional Neural Network)
